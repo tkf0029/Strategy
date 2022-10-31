@@ -530,7 +530,7 @@ nextBtn.addEventListener('click', function () {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /home/ec2-user/environment/strategy/resources/js/tactical.js */"./resources/js/tactical.js");
+module.exports = __webpack_require__(/*! /home/ec2-user/environment/Strategy/resources/js/tactical.js */"./resources/js/tactical.js");
 
 
 /***/ })
