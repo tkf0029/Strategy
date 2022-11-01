@@ -14,6 +14,10 @@
 2. 作成した画像をアップする事で簡単にチームで共有可能
 3. 画像にコメントが付けられる
 
+# Usage
+ 
+DEMOの実行方法など、"hoge"の基本的な使い方を説明する
+
 # Requirement
  
  * "php": "^7.2.5|~8.0.0"
@@ -23,16 +27,26 @@
  * "laravel/tinker": "^2.5"
  * "league/flysystem-aws-s3-v3": "^1.0"
  
- 
-# Usage
- 
-DEMOの実行方法など、"hoge"の基本的な使い方を説明する
- 
-```bash
-git clone https://github.com/hoge/~
-cd examples
-python demo.py
-```
+
+# Installation
+* インストールと初期設定   
+git clone  
+cd laravel6-blog  
+composer install  
+npm install  
+npm run dev  
+cp .env.example .env  
+php artisan key:generate  
+
+* .envの中身を設定  
+DB_DATABASE={db_name}  
+DB_USERNAME={db_username}  
+DB_PASSWORD={db_password} 
+
+* マイグレーションを実行して，サーバを起動  
+php artisan migrate:fresh --seed  
+php artisan serve --port=8080  
+
  
 # Note
  
