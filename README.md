@@ -4,7 +4,7 @@
 
 # DEMO
  
-こちら[https://evil-barrow-43093.herokuapp.com/]
+[こちら](https://evil-barrow-43093.herokuapp.com/)
 で試すことができます
  
 # Features
