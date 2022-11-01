@@ -7,27 +7,21 @@
 "hoge"の魅力が直感的に伝えわるデモ動画や図解を載せる
  
 # Features
- 
-"hoge"のセールスポイントや差別化などを説明する
 
 チームスポーツにおいて重要な戦術理解をサポートできる.
 1. 気軽に作戦盤を使って戦術を可視化  
 2. 作成した画像をアップする事で簡単にチームで共有可能
+3. 画像にコメントが付けられる
 
 # Requirement
  
-"hoge"を動かすのに必要なライブラリなどを列挙する
+ * "php": "^7.2.5|~8.0.0"
+ * "aws/aws-sdk-php": "^3.240"
+ * "fideloper/proxy": "^4.4"
+ * "laravel/framework": "^6.20.26"
+ * "laravel/tinker": "^2.5"
+ * "league/flysystem-aws-s3-v3": "^1.0"
  
-* huga 3.5.2
-* hogehuga 1.0.2
- 
-# Installation
- 
-Requirementで列挙したライブラリなどのインストール方法を説明する
- 
-```bash
-pip install huga_package
-```
  
 # Usage
  
@@ -50,12 +44,4 @@ python demo.py
 * 作成者：Takuma Furuichi
 * 所属：東京大学工学部システム創成学科
 * E-mail：tkf38640966@gmail.com
- 
-# License
-ライセンスを明示する
- 
-"hoge" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
- 
-社内向けなら社外秘であることを明示してる
- 
-"hoge" is Confidential.
+
