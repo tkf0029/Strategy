@@ -35,13 +35,16 @@ python demo.py
  
 # Note
  
-注意点などがあれば書く
+作成中のアプリなのでバグ等が生じた場合は下記までご連絡ください。
  
 # Author
- 
-作成情報を列挙する
  
 * 作成者：Takuma Furuichi
 * 所属：東京大学工学部システム創成学科
 * E-mail：tkf38640966@gmail.com
+
+
+# License
+ 
+"作戦バーン" is under MIT license.
 
