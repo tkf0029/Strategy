@@ -4,7 +4,8 @@
 
 # DEMO
  
-"hoge"の魅力が直感的に伝えわるデモ動画や図解を載せる
+こちら[https://evil-barrow-43093.herokuapp.com/]
+で試すことができます
  
 # Features
 
