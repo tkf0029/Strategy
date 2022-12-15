@@ -14,10 +14,26 @@
 1. 気軽に作戦盤を使って戦術を可視化  
 2. 作成した画像をアップする事で簡単にチームで共有可能
 3. 画像にコメントが付けられる
+4. 作成例<br>
+<img src="https://user-images.githubusercontent.com/104728126/207908945-d6eef8d8-93d9-4193-a587-c8f1547b07eb.png" width="480px"> <br> 
 
 # Usage
  
-DEMOの実行方法など、"hoge"の基本的な使い方を説明する
+### 1.一覧画面(過去作った作戦盤のタイトルと画像が表示される)
+<img src="https://user-images.githubusercontent.com/104728126/207902180-174447ef-8944-4279-bfd1-2768d636bce9.png" width="480px"> <br> 
+### 2.作成画面  
+(①書き込む→②画像変換してダウンロード→③画像ファイルに題名・コメント付与→④投稿)  
+#### 作成画面１
+<img src="https://user-images.githubusercontent.com/104728126/207903903-b8731267-0d64-412f-ae77-ca7f5d7d99ae.png" width="480px"><br>
+#### 作成画面２(スタンプ/ペンのモード変更、色の変更が可能。前後の作業の復元や盤面のリセットも可能。)
+<img src="https://user-images.githubusercontent.com/104728126/207904449-48f69d43-d268-4082-9d3c-e32cdab1eba3.png" width="480px"><br>
+### 3.デモ
+#### ①作戦盤の作成・投稿
+<img src="https://user-images.githubusercontent.com/104728126/207907084-36255863-acde-4d1b-a143-4b5a59934038.png" width="480px"><br>
+#### ②画像の投稿が一覧画面に反映
+<img src="https://user-images.githubusercontent.com/104728126/207907416-a346880a-ceae-43e2-afce-9baeb3221e4f.png" width="480px"><br>
+#### ③詳細画面
+<img src="https://user-images.githubusercontent.com/104728126/207908507-e7919682-fd1a-4f02-971d-0b6b3b9c2340.png" width="480px"><br>
 
 # Requirement
  
