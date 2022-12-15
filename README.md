@@ -5,7 +5,8 @@
 # DEMO
  
 [こちら](https://evil-barrow-43093.herokuapp.com/)
-で試すことができます
+で試すことができます  
+(2022/11/28のHerokuの無料プラン廃止により現在利用できない可能性があります。)
  
 # Features
 
